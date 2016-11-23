@@ -31,7 +31,7 @@ Basta con cambiar el número en la hoja de cálculo incluida en el diseño
 ![Parámetros](./images/PCBProtoPrint_conf.png)
 
 
-## [PCBPrint LED (BC547)](PCBPrint_led_bc547 /README.md)
+## [PCBPrint LED (BC547)](PCBPrint_led_bc547/README.md)
 
 Un diseño alternativo al Alhambra led para transistores de otro patillaje
 
