@@ -1,11 +1,11 @@
 # PCbPrints
 Se trata de piezas imprimibles que permiten crear circuitos sencillos.
 
-La primera vez que vi esta idea en un [diseño del maestro @obijuan](https://github.com/Obijuan/3D-parts/tree/master/2016-10-11-printable-led-pcb)
+El [primer diseño fue del maestro @obijuan](https://github.com/Obijuan/3D-parts/tree/master/2016-10-11-printable-led-pcb)
 
 ![pcb led](https://github.com/Obijuan/3D-parts/blob/master/2016-10-11-printable-led-pcb/images/pcb-led-1.png?raw=true)
 
-y en otro diseño [más elaborado](https://github.com/FPGAwars/alhambra-led)
+y este otro diseño [más elaborado](https://github.com/FPGAwars/alhambra-led) y capaz de entregar más corriente al led (pensado para trabajar con la [IceZum Alhambra FPGA](https://github.com/FPGAwars/icezum))
 
 ![alhambra-led](https://github.com/FPGAwars/alhambra-led/blob/master/wiki/alhambra-led-1.png?raw=true)
 
