@@ -2,7 +2,7 @@
 
 Se trata de una nueva versión del PCBPrint LED para transistores NPN con patillaje compatible con el transistor bc547
 
-![bc547](../images/bc547.jpg)
+![bc547](../images/bc547_pinout.jpg)
 
 El móntaje es el típico de un transistor para activar una carga (en este caso un simple LED). Aunque para un led no sería necesario, este montaje nos va a permitir trabajar con placas que proporcionan menos intensidad por pin (por ejmemplo la Alhambra ICEZum) o con led más potentes
 
