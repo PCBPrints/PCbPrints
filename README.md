@@ -48,3 +48,22 @@ Sensor luminoso analógico
 Pulsador con conexión Pull Down
 
 ![a](https://lh3.googleusercontent.com/vTEPZUCdk6lisei_uNa5GlQSCNVYprbPvmiwcR6VBZw6Xqr7tKk2wf-3JtS8dFbteqAKWz6LdjY=w772-h936-no)
+
+## [PCBPrint con interruptor](./PCBPrint_common_switch/)
+
+![PCBPrint con interruptor](./PCBPrint_common_switch/common_switch.jpeg)
+
+## [PCBPrint pulsador con tapa (para evitar cortes)](./PCBPrint_button_with_lid/)
+
+![PCBPrint pulsador con tapa (para evitar cortes)](./PCBPrint_button_with_lid/IMG_20171017_214550.jpg)
+
+
+## [PCBPrint Led con tapa (para evitar cortos)](./PCBPrint_Led_with_lid/)
+
+![PCBPrint Led con tapa](./PCBPrint_Led_with_lid/T03_4.png)
+
+## [PCBPrint con potenciómetro](./PCBPrint_trimpot_3386p/)
+
+
+
+![PCBPrint trimpot](./PCBPrint_trimpot_3386p/IMG_20171027_230827.jpg)
