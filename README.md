@@ -68,7 +68,7 @@ Pulsador con conexión Pull Down
 
 ![PCBPrint trimpot](./PCBPrint_trimpot_3386p/IMG_20171027_230827.jpg)
 
-## [PCBPrint LED RGB](./PCBPrint_Led_RGB/RGB-3.jpg)
+## [PCBPrint LED RGB](./PCBPrint_Led_RGB/)
 
 Un PCB imprimible con LED RGB, para poder jugar con los colores.
 
