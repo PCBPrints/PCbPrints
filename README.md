@@ -76,7 +76,7 @@ Un PCB imprimible con LED RGB, para poder jugar con los colores.
 
 ## [PCBPrint de Wotto](./PCBPrint_wotto/)
 
-PCB imprimible diseñada para [un taller de Bilbao Dynamics](http://bilbaodynamics.com/50-aniversario-del-colegio-de-ingenieria-de-telecomunicacion) con excusa del 50 aniversario del Colegio de Ingenieros de Telecomunicación. En la actividad se pretende que los niños y niñas tengan un primer contacto con la electrónica.
+PCB imprimible diseñada para [un taller de Bilbao Dynamics](http://bilbaodynamics.com/50-aniversario-del-colegio-de-ingenieria-de-telecomunicacion) con excusa del 50 aniversario del Colegio de Ingenieros de Telecomunicación. En la actividad se pretendía que los niños y niñas tengan un primer contacto con la electrónica y se llevaran un bonito recuerdo.
 
 ![PCBPrint Wotto](./PCBPrint_wotto/wotto_princ.jpg)
 ![PCBPrint Wotto1][1]  ![PCBPrint Wotto2 2][2]
