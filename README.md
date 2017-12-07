@@ -74,3 +74,8 @@ Un PCB imprimible con LED RGB, para poder jugar con los colores.
 
 ![PCBPrint LED RGB](./PCBPrint_Led_RGB/anima1.gif)
 
+## [PCBPrint LED BARGRAPH](./PCBPrint_Led_Bargraph/)
+
+Un PCB imprimible con una barra de leds para hacer secuencias .
+
+![PCBPrint LED BARGRAPH](./PCBPrint_Led_Bargraph/20171207_110516.jpg)
