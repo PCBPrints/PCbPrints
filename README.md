@@ -74,6 +74,14 @@ Un PCB imprimible con LED RGB, para poder jugar con los colores.
 
 ![PCBPrint LED RGB](./PCBPrint_Led_RGB/anima1.gif)
 
+
+## [PCBPrint LED BARGRAPH](./PCBPrint_Led_Bargraph/)
+
+Un PCB imprimible con una barra de leds para hacer secuencias .
+
+![PCBPrint LED BARGRAPH](./PCBPrint_Led_Bargraph/20171207_110516.jpg)
+
+
 ## [PCBPrint de Wotto](./PCBPrint_wotto/)
 
 PCB imprimible diseñada para [un taller de Bilbao Dynamics](http://bilbaodynamics.com/50-aniversario-del-colegio-de-ingenieria-de-telecomunicacion) con excusa del 50 aniversario del Colegio de Ingenieros de Telecomunicación. En la actividad se pretendía que los niños y niñas tuvieran un primer contacto con la electrónica y se llevaran un bonito recuerdo.
