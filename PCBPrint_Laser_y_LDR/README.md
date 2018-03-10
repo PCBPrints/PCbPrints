@@ -1,8 +1,8 @@
-# PCBPrint Láser + LDR
+# PCBPrint LÃ¡ser + LDR
 
-Soporte para Láser y LDR con resistencia PULL-DOWN para proyectos educativos con Arduino en nivel iniciación.
+Soporte para LÃ¡ser y LDR con resistencia PULL-DOWN para proyectos educativos con Arduino en nivel iniciaciÃ³n.
 
-![](practica.png)
+![](imagenes/practica.png)
 
 
 ---
@@ -13,7 +13,7 @@ Soporte para Láser y LDR con resistencia PULL-DOWN para proyectos educativos con
 
 ## Materiales
 
-- 1 Láser
+- 1 LÃ¡ser
 - 1 LDR
 - 1 Resistencia
 
@@ -21,23 +21,23 @@ Soporte para Láser y LDR con resistencia PULL-DOWN para proyectos educativos con
 <br>
 
 
-## Diseño
+## DiseÃ±o
 
-Diseño realizado y compartido en [Tinkercad](https://www.tinkercad.com/things/4eDWfo5o9AT).
+DiseÃ±o realizado y compartido en [Tinkercad](https://www.tinkercad.com/things/4eDWfo5o9AT).
 
-![](diseno.png)
+![](imagenes/diseno.png)
 
 
 <br>
 
 
-## Construcción
+## ConstrucciÃ³n
 
-Necesitarás imprimir el diseño. Tarda menos de media hora para una calidad mediana. Utiliza unos pines acodados y pégalos al soporte utilizando silicona. Deberás soldar en la parte trasera los diferentes conectores a los pines acodados.
+NecesitarÃ¡s imprimir el diseÃ±o. Tarda menos de media hora para una calidad mediana. Utiliza unos pines acodados y pÃ©galos al soporte utilizando silicona. DeberÃ¡s soldar en la parte trasera los diferentes conectores a los pines acodados.
 
-![](materiales.png)
+![](imagenes/materiales.png)
 
-![](laser_ldr.png)
+![](imagenes/laser_ldr.png)
 
 
 <br>
@@ -45,6 +45,6 @@ Necesitarás imprimir el diseño. Tarda menos de media hora para una calidad media
 
 ## Montaje
 
-Simplemente deberás montar sobre la protoboard el láser y el LDR conectando a sus diferentes pines de arduino.
+Simplemente deberÃ¡s montar sobre la protoboard el lÃ¡ser y el LDR conectando a sus diferentes pines de arduino.
 
-![](protoboard.png)
+![](imagenes/protoboard.png)
