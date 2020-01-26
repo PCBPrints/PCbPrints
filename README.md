@@ -92,3 +92,10 @@ PCB imprimible diseñada para [un taller de Bilbao Dynamics](http://bilbaodynami
  [1]: ./PCBPrint_wotto/wotto1.jpg
  [2]: ./PCBPrint_wotto/wotto2.jpg
 
+## [PCBPrint Cherry-mx](https://github.com/Obijuan/3D-parts/wiki/PCBPrint-para-Pulsadores-Cherry-mx)
+
+![](https://raw.githubusercontent.com/Obijuan/3D-parts/master/2020-01-08-cherry-buttons/images/pcbprint-cherry-02.png)
+
+PCBPrint para los pulsadores **Cherry-mx**. También se ha incluido el capuchón de la tecla
+
+![](https://raw.githubusercontent.com/Obijuan/3D-parts/master/2020-01-08-cherry-buttons/images/pcbprint-cherry-05.png)
