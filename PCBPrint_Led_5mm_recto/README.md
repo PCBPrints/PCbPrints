@@ -84,6 +84,7 @@ El Led tambien se soldara por arriba, ya que el cable del led viene desde abajo 
 ## Autores ✒️
 
 * **Alberto Nicas** - *Creador* - [Altenife](https://github.com/altenife)
+* **Juan Gonzales** - *Diseño de la pieza original* - [Aquí](https://github.com/Obijuan/3D-parts/tree/master/2016-10-11-printable-led-pcb)
 
 ## Expresiones de Gratitud 🎁
 
