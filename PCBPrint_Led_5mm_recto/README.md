@@ -44,7 +44,7 @@ a 5v o de 1k para trabajar a 12V practicamente da igual que color utiliceis.
 
 ### Instalación 🔧
 
-**1-** Una vez hayamos descargado el archivo [desde aquí](https://github.com/altenife/PCbPrints/raw/master/PCBPrint_Led_5mm_recto/Archivos/pcb-led-5mm-recto.stl) y lo tengamos ya impreso, lo primero que debemos hacer es coger los conectores y con un alicate alargar uno de los extremos y dejarlo como en la figura numero 2, esto no es necesario, pero si recomendable, pues el meterlo dentro de la pieza que acabanos de imprimir le perdemos 1mm de largo al conector, lo que puede generar un mal contacto en nuesra protoboard. Asi que mas vale prevenir que lamentar.
+**1-** Una vez hayamos descargado el archivo [desde aquí](https://github.com/altenife/PCbPrints/raw/master/PCBPrint_Led_5mm_recto/Archivos/pcb-led-5mm-recto.stl) y lo tengamos ya impreso, lo primero que debemos hacer es coger los conectores y con un alicate alargar uno de los extremos y dejarlo como en la figura numero 2, esto no es necesario, pero si recomendable, pues al meterlo dentro de la pieza que acabanos de imprimir le perdemos 1mm de largo al conector, lo que puede generar un mal contacto en nuesra protoboard. Asi que mas vale prevenir que lamentar.
 
 
 ![Paso 1](https://github.com/altenife/PCbPrints/blob/master/PCBPrint_Led_5mm_recto/Imagenes/Paso%201-PCBprint%20.jpg)
@@ -58,7 +58,7 @@ a 5v o de 1k para trabajar a 12V practicamente da igual que color utiliceis.
 **3-** Metemos la resistencia y el led, y la resistencia la soldamos por la parte superior de la pieza, no por la inferior, el sobrante de la resistencia se cortara por debajo y se escondera en un hueco diseñado para ello.
 El Led tambien se soldara por arriba, ya que el cable del led viene desde abajo y tiene que entrar por el agujerito que lo dirije al conector.
 
-![Paso 3](https://github.com/altenife/PCbPrints/blob/master/PCBPrint_Led_5mm_recto/Imagenes/Paso-2PCBprint%20.jpg)
+![Paso 3](https://github.com/altenife/PCbPrints/blob/master/PCBPrint_Led_5mm_recto/Imagenes/Paso%203-PCBprint%20.jpg)
 
 
 **4-** Soldamos el led a la resistencia por la parte trasera y ya tenemos terminado nuestro PCBPrint para usar con diodos led de 5mm y conectores rectos.
