@@ -4,7 +4,7 @@ Un pequeño accesorio para imprimir en 3D y poder utilizar un led en nuestra pro
 
 ## Comenzemos!!! 🚀
 
-Esto es lo que te vas a encontrar en este proyecto, Un pequeño accesorio para poder utilizar los **Led de 5mm** en tus placas protoboard y crear tu propia PCB.
+Esto es lo que te vas a encontrar en este proyecto. Un pequeño accesorio para poder utilizar los **Led de 5mm** en tus placas protoboard y crear tu propia PCB.
 Este accesorio esta diseñado para utilizar los conectores de macho a macho rectos, no obstante lo veremos mas adelante.
 
 
@@ -27,14 +27,12 @@ Para realizar este proyecto necesitas 4 cosas:
 
 ```
 La resistencia depende de la tensión a la que vallamos a trabajar.
-Una resistencia de 220ohm es la adecuada para trabajar con tensiones a 5V,<br/>
-si por el contrario vamos a trabajar con tensiones de 12v deberiamos utilizar una resistencia de 1kohm (1000 ohm)
-Con la resistencia de 1K tambien podemos trabajar con 5V,<br/>
-solamente que la intensidad del brillo del led se vera reducida.
+Una resistencia de 220ohm es la adecuada para trabajar con tensiones a 5V, si por el contrario vamos a trabajar con tensiones de 12v deberiamos utilizar una resistencia de 1kohm (1000 ohm)
+Con la resistencia de 1K tambien podemos trabajar con 5V, solamente que la intensidad del brillo del led se vera reducida.
 
-**Importante** Los Led suelen funcionar a una tension de entre 1,7 y 4,6V dependiendo del color del led.<br/>
-En esta tabla podeis ver la intensidad de trabajo de cada color de led y si quereis poder utilizar la<br/>
-resistencia que adapte la tension a vuestras necesidades, pero con una resistencia de 220 ohm para trabajar<br/>
+**Importante** Los Led suelen funcionar a una tension de entre 1,7 y 4,6V dependiendo del color del led.
+En esta tabla podeis ver la intensidad de trabajo de cada color de led y si quereis poder utilizar la
+resistencia que adapte la tension a vuestras necesidades, pero con una resistencia de 220 ohm para trabajar
 a 5v o de 1k para trabajar a 12V practicamente da igual que color utiliceis.
 
 ```
