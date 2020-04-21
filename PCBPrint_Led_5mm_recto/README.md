@@ -2,12 +2,11 @@
 
 Un pequeño accesorio para imprimir en 3D y poder utilizar un led en nuestra protoboard.
 
-## Comenzamos 🚀
+## Comenzemos!!! 🚀
 
 Esto es lo que te vas a encontrar en este proyecto, Un pequeño accesorio para poder utilizar los **Led de 5mm** en tus placas protoboard y crear tu propia PCB.
 Este accesorio esta diseñado para utilizar los conectores de macho a macho rectos, no obstante lo veremos mas adelante.
 
-Comencemos!
 
 ![pcb led 5mm](https://github.com/altenife/PCbPrints/blob/master/PCBPrint_Led_5mm_recto/Imagenes/PCBPrint%20led%205mm%20recto.jpg)
 
@@ -21,19 +20,23 @@ Mira la carpeta [**Archivos**](https://github.com/altenife/PCbPrints/tree/master
 
 Para realizar este proyecto necesitas 4 cosas:
 
--1. Impresora 3D ya sea de tipo FDM o SLA
--2. Led de 5mm
--3. Conector macho macho recto para placas PCB
--4. Resistencia de 1/4w de entre 220 y 1k ohm. depende de la tensión a la que lo vallamos a utilizar
+- Impresora 3D ya sea de tipo FDM o SLA<br/>
+- Led de 5mm<br/>
+- Resistencia de 1/4w de entre 220 y 1k ohm. depende de la tensión a la que lo vallamos a utilizar<br/>
+- Conector macho macho recto para placas PCB<br/>
 
 ```
 La resistencia depende de la tensión a la que vallamos a trabajar.
-Una resistencia de 220ohm es la adecuada para trabajar con tensiones a 5V, si por el contrario vamos a trabajar con tensiones de 12v deberiamos utilizar una resistencia de 1kohm (1000 ohm)
-Con la resistencia de 1K tambien podemos trabajar con 5V, solamente que la intensidad del brillo del led se vera reducida.
+Una resistencia de 220ohm es la adecuada para trabajar con tensiones a 5V,<br/>
+si por el contrario vamos a trabajar con tensiones de 12v deberiamos utilizar una resistencia de 1kohm (1000 ohm)
+Con la resistencia de 1K tambien podemos trabajar con 5V,<br/>
+solamente que la intensidad del brillo del led se vera reducida.
 
-**Importante** Los Led suelen funcionar a una tension de entre 1,7 y 4,6V dependiendo del color del led
-en esta tabla podeis ver la intensidad de trabajo de cada color de led.
-
+**Importante** Los Led suelen funcionar a una tension de entre 1,7 y 4,6V dependiendo del color del led.<br/>
+En esta tabla podeis ver la intensidad de trabajo de cada color de led y si quereis poder utilizar la<br/>
+resistencia que adapte la tension a vuestras necesidades, pero con una resistencia de 220 ohm para trabajar<br/>
+a 5v o de 1k para trabajar a 12V practicamente da igual que color utiliceis.
+![pcb led 5mm](https://github.com/altenife/PCbPrints/blob/master/PCBPrint_Led_5mm_recto/Imagenes/Tensiones%20led.png)
 
 ```
 
