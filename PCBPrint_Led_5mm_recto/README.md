@@ -19,7 +19,8 @@ Mira la carpeta [**Archivos**](https://github.com/altenife/PCbPrints/tree/master
 
 ### Pre-requisitos 📋
 
-Para realizar este proyecto necesitas 4 cosas
+Para realizar este proyecto necesitas 4 cosas:
+
 -1. Impresora 3D ya sea de tipo FDM o SLA
 -2. Led de 5mm
 -3. Conector macho macho recto para placas PCB
