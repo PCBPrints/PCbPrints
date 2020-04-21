@@ -14,7 +14,7 @@ Comencemos!
 
 ![](name-of-giphy.gif)
 
-Mira la carpeta **Archivos** para descargar el archivo en diferentes formatos.
+Mira la carpeta ![**Archivos**] (https://github.com/altenife/PCbPrints/tree/master/PCBPrint_Led_5mm_recto/Archivos) para descargar el archivo en diferentes formatos.
 
 
 ### Pre-requisitos 📋
