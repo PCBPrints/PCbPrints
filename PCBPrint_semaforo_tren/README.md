@@ -10,14 +10,14 @@ Este accesorio esta diseñado para utilizar Leds de 5mm resistencias de 1/4W y c
 
 <p align="center">
   <img src="https://github.com/altenife/Things-Cosas-FPGAs-y-Arduino/blob/master/PCBPrint_semaforo_tren/Imagenes/BCPPrint%20semaforo%203%20%20.jpg"></p>
-  
-  
+
+
 En esta imagen se puede ver al semaforo en funcionamiento.
 Si te gusta la cajita para el servo puedes verla y descargarla [Aqui](https://github.com/altenife/Things-Cosas-FPGAs-y-Arduino/tree/master/Caja%20Servo%20SG90%20Tower%20Pro)
 
 <p align="center">
   <img src="https://github.com/altenife/Things-Cosas-FPGAs-y-Arduino/blob/master/PCBPrint_semaforo_tren/Imagenes/Train%20GIF-downsized.gif"></p>
-  
+
 
 Mira la carpeta [**Archivos**](https://github.com/altenife/Things-Cosas-FPGAs-y-Arduino/tree/master/PCBPrint_semaforo_tren/Archivos) para descargar el archivo en diferentes formatos.
 
@@ -27,10 +27,10 @@ Mira la carpeta [**Archivos**](https://github.com/altenife/Things-Cosas-FPGAs-y-
 Para realizar este proyecto necesitas estas cositas:
 
 - Impresora 3D ya sea de tipo FDM o SLA<br/>
-- Led de 5mm<br/>
-- Resistencia de 1/4w de entre 220 y 1k ohm. depende de la tensión a la que lo vallamos a utilizar<br/>
-- Conector macho macho recto para placas PCB<br/>
-- Un poquito cable, o alambre fino.
+- 3 Led de 5mm<br/>
+- 1 Resistencia de 1/4w de entre 220 y 1k ohm. depende de la tensión a la que lo vallamos a utilizar<br/>
+- Conector macho macho recto para placas PCB (6 segmentos)<br/>
+- Un poquito de cable, o alambre fino.
 - Estaño y soldador.
 
 
