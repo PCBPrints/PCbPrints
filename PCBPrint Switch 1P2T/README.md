@@ -1,6 +1,6 @@
 # PCBPrint Switch 1P2T
 
-Un pequeño accesorio para imprimir en 3D y poder utilizar un interruptor conmutador (Switch) del tipo 1P2T en nuestros proyectos con
+Un pequeño accesorio para imprimir en 3D y poder utilizar un interruptor conmutador [Switch del tipo 1P2T](https://github.com/altenife/Things-Cosas-FPGAs-y-Arduino/tree/master/Componentes%20electronicos/Mini%20toggle%20switch%201P2T) en nuestros proyectos con
 arduino ó FPGAs libres como por ejemplo la Alhambra
 
 ## Comenzemos!!! 🚀
