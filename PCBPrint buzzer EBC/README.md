@@ -1,6 +1,6 @@
 # PCBPrint Buzzer para transistores NPN y patillaje EBC
 
-Un pequeño accesorio para imprimir en 3D y poder utilizar un buzzer con el patillaje del transistor en EBC.
+Un pequeño accesorio para imprimir en 3D y poder utilizar un buzzer con el patillaje del transistor en EBC.(1.Emisor 2.Base 3.Colector)
 
 ## Comenzemos!!! 🚀
 
