@@ -3,12 +3,18 @@ Un pequeño accesorio para imprimir en 3D y poder utilizar un Display de 7 segme
 
 ## Comenzemos!!! 🚀
 
-Esto es lo que te vas a encontrar en este proyecto. Un pequeño accesorio para poder montar un display de 7 segmentos, pudiendo tener así
-una forma facil y comoda de usar los displays en tus proyectos.
+Esto es lo que te vas a encontrar en este proyecto. Con este accesorio puedes montar un display de 7 segmentos en tu protoboard, pudiendo usarlo de una forma facil y comoda de usar en tus proyectos.
 
+**Existen 2 versiones**
+Una version sin resistencias y otra con resistencias, eso ya depende del uso que le deis. Esta PCBPrint es compatible tanto para displays de anodo comun, o de catodo comun, tan solo teneis que adaptar las resistencias a lo que requiera cada conexion poniendo puentes o resistencias de 0ohm donde corresponda.
+
+Version sin resistencias.
 <p align="center">
   <img src="https://github.com/altenife/Things-Cosas-FPGAs-y-Arduino/blob/master/PCBPrint%20Display%207%20seg/Imagenes/PCBPrint%207%20segmentos%20collage.jpg"></p>
   
+Version con resistencias.
+<p align="center">
+  <img src="https://github.com/altenife/Things-Cosas-FPGAs-y-Arduino/blob/master/PCBPrint%20Display%207%20seg/Imagenes/PCBPrint%20display%207%20segmentos%20resistencia%20collage.jpg"></p>  
 
 Mira la carpeta [**Archivos**](https://github.com/altenife/Things-Cosas-FPGAs-y-Arduino/tree/master/PCBPrint%20Display%207%20seg/Archivos) para descargar el archivo en diferentes formatos.
 
@@ -22,23 +28,28 @@ Para realizar este proyecto necesitas estas cositas:
 - Conector macho macho en ángulo recto para placas PCB<br/>
 - Un poquito de cable.<br/>
 - Estaño y soldador.<br/>
+- Resistencias (opcional)
 
 ### Instalación 🔧
 
-**1-** Una vez hayamos descargado el archivo .STL [desde aquí](https://github.com/altenife/Things-Cosas-FPGAs-y-Arduino/blob/master/PCBPrint%20Display%207%20seg/Archivos/PCBPrint%20display%207%20segmentos.stl)
-y lo tengamos impreso en 3D lo siguiente que debemos hacer es montar un display de 7 segmentos de 13x19mm y una fila de 9 pies de conexión para PCB de ángulo recto.
+**1-** Una vez hayamos descargado el archivo .STL y lo tengamos impreso en 3D lo siguiente que debemos hacer es montar un display de 7 segmentos de 13x19mm y una fila de 9 pines de conexión para PCB de ángulo recto. En mi caso he impreso la versión sin resistencias, si utilizais la version con resistencias, soldais las resistencias segun proceda, si es de anodo o de catodo comun vuestro display.
 <p align="center">
   <img src="https://github.com/altenife/Things-Cosas-FPGAs-y-Arduino/blob/master/PCBPrint%20Display%207%20seg/Imagenes/PCBPrint%207%20segmentos%20impreso.jpg"></p>
   
-**2-** Despues lo cableamos, el cableado es muy intuitivo, solo hay que ir en linea recta, todos los cables siguen su trayectoria auqneu haya algunos que se crucen, pero lo haran en linea recta.
-  El único cable que se cruza es uno de los 2 negativos que lleva, que pasa por encima (o por debajo, depende de cual pongais primero) de otros 3 cables, el punto, tambien se cruza, que pasa por encima de otro, pero es una conexion muy intuitiva.
+**2-** Despues lo cableamos, el cableado es muy intuitivo, solo hay que ir en linea recta, todos los cables siguen su trayectoria aunque haya algunos que se crucen, pero lo haran en linea recta.
+  El único cable que se cruza es uno de los 2 negativos que lleva, (O 2 positivos, si es de anodo comun) que pasa por encima (o por debajo, depende de cual pongais primero) de otros 3 cables, el punto, tambien se cruza, que pasa por encima de otro, pero es una conexion muy intuitiva.
   
 <p align="center">
   <img src="https://github.com/altenife/Things-Cosas-FPGAs-y-Arduino/blob/master/PCBPrint%20Display%207%20seg/Imagenes/PCBPrint%207%20segmentos%20cableado.jpg"></p>
   
-**3-** OJO muchisima atención, Este PCBPrint no lleva resistencias, yo lo he conectado directamente a la FPGA Alhambra II porque en sus salidas de 5V lleva una resistencia de 200oHm pero si lo vais a usar en una protoboard, o en una Arduino, debereis de ponerle unas resistencias para proteger el display, ya que directamente con 5V se rompen.
+**3-** Tanto el diseño con resistencias como el diseño sin resistencias, utilizan la misma configuración para los segmentos, empezamos por el segmento A en la izquierda del todo, seguimos por el B, C... y por ultimo el negativo (GND)
+
 <p align="center">
-  <img src="https://github.com/altenife/Things-Cosas-FPGAs-y-Arduino/blob/master/PCBPrint%20Display%207%20seg/Imagenes/PCBPrint%20encendido.jpg"></p>
+  <img src="https://github.com/altenife/Things-Cosas-FPGAs-y-Arduino/blob/master/PCBPrint%20Display%207%20seg/Imagenes/PCBPrint%20display%207%20segmentos%20resistencia%20marcado.jpg"></p>
+  
+**4-** Aquí podeis ver como queda montao en una protoboard.  
+<p align="center">
+  <img src="https://github.com/altenife/Things-Cosas-FPGAs-y-Arduino/blob/master/PCBPrint%20Display%207%20seg/Imagenes/PCBPrint%20display%207%20seg%20en%20protoboard.jpg"></p>
   
 
 ## Construido con 🛠️
